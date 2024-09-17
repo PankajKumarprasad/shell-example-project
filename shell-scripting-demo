@@ -1,0 +1,23 @@
+#!/bin/bash
+
+
+########################
+#Author:pankaj
+#Time: 17th Sep
+#version:V1
+#
+#it will add two number
+#
+####################################
+
+echo -n "Enter 2 numbers "
+read x
+read y
+
+a=11
+b=7
+
+echo "devision of $a/$b is $((a/b))"
+echo "multiply of $x and $y  is $((x*y))"
+echo "addition of $x and $y  is $((x+y))"
+                                      
